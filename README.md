@@ -1,5 +1,7 @@
 # SafeEscape - Disaster Management Solution
 
+[![Download APK](https://img.shields.io/badge/Download-SafeEscape%20v1.0.0-blue)](https://github.com/sahil28032005/SafeEscape-MVP---AI-Powered-Emergency-Alert-App/releases/download/v1.0.0/SafeEscape-v1.0.0-arm64-release.apk)
+
 ## Overview
 
 SafeEscape is a comprehensive disaster management application designed to help users prepare for, navigate through, and recover from disaster situations. This application provides critical features to ensure safety during emergencies.
