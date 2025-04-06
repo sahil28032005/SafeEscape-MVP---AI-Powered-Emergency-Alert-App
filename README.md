@@ -1,6 +1,6 @@
 # SafeEscape - Disaster Management Solution
 
-[![Download APK](https://img.shields.io/badge/Download-SafeEscape%20v1.0.0-blue)](https://github.com/sahil28032005/SafeEscape-MVP---AI-Powered-Emergency-Alert-App/releases/download/v1.0.0/SafeEscape-v1.0.0-arm64-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-SafeEscape%20v1.0.0-blue)](https://github.com/sahil28032005/SafeEscape-MVP---AI-Powered-Emergency-Alert-App/releases/tag/v1.0.0)
 
 ## Overview
 
