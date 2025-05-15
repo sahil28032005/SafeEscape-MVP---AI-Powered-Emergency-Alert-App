@@ -94,9 +94,7 @@ SafeEscape follows a clean architecture approach:
 3. Install dependencies: `flutter pub get`
 4. Run the application: `flutter run`
 
-## 📱 Screenshots
 
-[Screenshots will be added here]
 
 ## 🔮 Future Enhancements
 
